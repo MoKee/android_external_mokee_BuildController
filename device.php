@@ -31,6 +31,7 @@ $device_fullname = array(
     'n7100' => 'Samsung Galaxy Note II (GSM Non-LTE)',
     'p880' => 'LG Optimus 4X HD',
     'p930' => 'LG Nitro HD / Optimus LTE',
+    'sc03e' => 'Samsung Galaxy S III (Japan)',
     'spyder' => 'Motorola Droid Razr',
     'umts_spyder' => 'Motorola Razr',
     'xt907' => 'Motorola Droid RAZR M',
