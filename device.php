@@ -36,6 +36,7 @@ $device_fullname = array(
     'sc03e' => 'Samsung Galaxy S III LTE(Japan)',
     'spyder' => 'Motorola Droid Razr',
     't0lte' => 'Samsung Galaxy Note II (GSM LTE)',
+    'targa' => 'Motorola Droid Bionic',
     'umts_spyder' => 'Motorola Razr',
     'xt907' => 'Motorola Droid RAZR M',
     'xt925' => 'Motorola Droid RAZR HD (GSM)',
