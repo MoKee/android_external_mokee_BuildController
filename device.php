@@ -31,6 +31,7 @@ $device_fullname = array(
     'mb886' => 'Motorola Atrix HD ',
     'n7000' => 'Samsung Galaxy Note (Intl)',
     'n7100' => 'Samsung Galaxy Note II (GSM Non-LTE)',
+    'nozomi' => 'Sony Xperia S',
     'p3100' => 'Samsung Galaxy Tab 2 7.0 (GSM)',
     'p3110' => 'Samsung Galaxy Tab 2 7.0 (Wi-Fi)',
     'p5100' => 'Samsung Galaxy Tab 2 10.1 (GSM)',
