@@ -21,6 +21,7 @@ $device_fullname = array(
     'i9500' => 'Samsung Galaxy S4 (GT-I9500)',
     'jfltexx' => 'Samsung Galaxy S4 (Intl)',
     'jordanplus' => 'Motorola Defy / Defy Plus',
+    'lu6200' => 'LG Optimus LTE',
     'm7att' => 'HTC One (AT&T)',
     'm7spr' => 'HTC One (Sprint)',
     'm7tmo' => 'HTC One (T-Mobile)',
