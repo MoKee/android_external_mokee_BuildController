@@ -14,6 +14,7 @@ $device_fullname = array(
     'find5' => 'Oppo Find 5',
     'galaxysmtd' => 'Samsung Galaxy S',
     'hammerhead' => 'Google Nexus 5',
+    'hikari' => 'Sony Xperia arco S',
     'i9100' => 'Samsung Galaxy S II (Intl)',
     'i9100g' => 'Samsung Galaxy S II (G)',
     'i9300' => 'Samsung Galaxy S III (Intl)',
