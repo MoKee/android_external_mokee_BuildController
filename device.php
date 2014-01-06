@@ -20,6 +20,7 @@ $device_fullname = array(
     'i9300' => 'Samsung Galaxy S III (Intl)',
     'i9305' => 'Samsung Galaxy S III (GSM LTE)',
     'i9500' => 'Samsung Galaxy S4 (GT-I9500)',
+    'jfltespr' => 'Samsung Galaxy S4 (Sprint)',
     'jfltexx' => 'Samsung Galaxy S4 (Intl)',
     'jordanplus' => 'Motorola Defy / Defy Plus',
     'lu6200' => 'LG Optimus LTE',
