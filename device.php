@@ -32,6 +32,7 @@ $device_fullname = array(
     'maguro' => 'Google Galaxy Nexus (GSM)',
     'mako' => 'Google Nexus 4',
     'mb886' => 'Motorola Atrix HD ',
+    'n1' => 'Oppo N1',
     'n7000' => 'Samsung Galaxy Note (Intl)',
     'n7100' => 'Samsung Galaxy Note II (GSM Non-LTE)',
     'nozomi' => 'Sony Xperia S',
