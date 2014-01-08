@@ -15,6 +15,7 @@ $device_fullname = array(
     'galaxysmtd' => 'Samsung Galaxy S',
     'hammerhead' => 'Google Nexus 5',
     'hikari' => 'Sony Xperia arco S',
+    'hltexx' => 'Samsung Galaxy Note 3 (N9005)',
     'i9100' => 'Samsung Galaxy S II (Intl)',
     'i9100g' => 'Samsung Galaxy S II (G)',
     'i9300' => 'Samsung Galaxy S III (Intl)',
