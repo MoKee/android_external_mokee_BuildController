@@ -44,6 +44,7 @@ $device_fullname = array(
     'p880' => 'LG Optimus 4X HD',
     'p930' => 'LG Nitro HD / Optimus LTE',
     'sc03e' => 'Samsung Galaxy S III LTE (Japan)',
+    'serranoltexx' => 'Samsung Galaxy S4 Mini (Intl)',
     'spyder' => 'Motorola Droid Razr',
     't0lte' => 'Samsung Galaxy Note II (GSM LTE)',
     'targa' => 'Motorola Droid Bionic',
