@@ -10,6 +10,7 @@ $device_fullname = array(
     'dlx' => 'HTC Droid DNA',
     'e970' => 'LG Optimus G (AT&T)',
     'e975' => 'LG Optimus G (Intl)',
+    'e980' => 'LG Optimus G Pro (All e98x GSM)',
     'edison' => 'Motorola Atrix 2',
     'find5' => 'Oppo Find 5',
     'galaxysmtd' => 'Samsung Galaxy S',
