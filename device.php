@@ -48,6 +48,7 @@ $device_fullname = array(
     'serrano3gxx' => 'Samsung Galaxy S4 Mini (3G)',
     'serranoltexx' => 'Samsung Galaxy S4 Mini (Intl)',
     'spyder' => 'Motorola Droid Razr',
+    'shooteru' => 'HTC Evo3D / G17 (GSM)',
     't0lte' => 'Samsung Galaxy Note II (GSM LTE)',
     'targa' => 'Motorola Droid Bionic',
     'toro' => 'Google Galaxy Nexus (Verizon)',
