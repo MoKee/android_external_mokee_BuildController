@@ -60,6 +60,7 @@ $device_fullname = array(
     'xt926' => 'Motorola Droid RAZR HD (CDMA)',
     'xt1028' => 'Motorola Moto G (Verizon)',
     'xt1032' => 'Motorola Moto G (GSM)',
+    'xt1033' => 'Motorola Moto G (Dual Sim)',
     'xt1034' => 'Motorola Moto G (Retail US)',
     'xt1053' => 'Motorola Moto X (T-Mobile)',
     'xt1058' => 'Motorola Moto X (GSM)',
