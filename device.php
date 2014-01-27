@@ -7,6 +7,7 @@ $device_fullname = array(
     'd800' => 'LG G2 (AT&T)',
     'd801' => 'LG G2 (T-Mobile)',
     'd802' => 'LG G2 (Intl)',
+    'd803' => 'LG G2 (Canada)',
     'dlx' => 'HTC Droid DNA',
     'e970' => 'LG Optimus G (AT&T)',
     'e975' => 'LG Optimus G (Intl)',
