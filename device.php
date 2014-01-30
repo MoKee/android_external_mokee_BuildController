@@ -4,7 +4,7 @@
 $device_fullname = array(
     'aries' => 'XiaoMi 2S',
     'crespo' => 'Google Nexus S',
-    'd710-' => 'Samsung Epic 4G Touch (Sprint)',
+    'd710' => 'Samsung Epic 4G Touch (Sprint)',
     'd800' => 'LG G2 (AT&T)',
     'd801' => 'LG G2 (T-Mobile)',
     'd802' => 'LG G2 (Intl)',
