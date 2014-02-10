@@ -73,12 +73,5 @@ $device_fullname = array(
     'xt907' => 'Motorola Droid RAZR M',
     'xt925' => 'Motorola Droid RAZR HD (GSM)',
     'xt926' => 'Motorola Droid RAZR HD (CDMA)',
-    'xt1028' => 'Motorola Moto G (Verizon)',
-    'xt1032' => 'Motorola Moto G (GSM)',
-    'xt1033' => 'Motorola Moto G (Dual Sim)',
-    'xt1034' => 'Motorola Moto G (Retail US)',
-    'xt1053' => 'Motorola Moto X (T-Mobile)',
-    'xt1058' => 'Motorola Moto X (GSM)',
-    'xt1060' => 'Motorola Moto X (Verizon)',
     'yuga' => 'Sony Xperia Z',
 );
