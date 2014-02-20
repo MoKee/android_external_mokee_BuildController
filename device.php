@@ -5,6 +5,7 @@ $device_fullname = array(
     'aries' => 'XiaoMi 2S',
     'crespo' => 'Google Nexus S',
     'd2att' => 'Samsung Galaxy S III (AT&T)',
+    'd2lte' => 'Samsung Galaxy S III (US)',
     'd2spr' => 'Samsung Galaxy S III (Sprint)',
     'd2tmo' => 'Samsung Galaxy S III (T-Mobile)',
     'd2vzw' => 'Samsung Galaxy S III (Verizon)',
