@@ -27,6 +27,7 @@ $device_fullname = array(
     'grouper' => 'Google Nexus 7 (Wi-Fi)',
     'hammerhead' => 'Google Nexus 5',
     'hikari' => 'Sony Xperia arco S',
+    'hlte' => 'Samsung Galaxy Note 3',
     'hltexx' => 'Samsung Galaxy Note 3 (N9005)',
     'honami' => 'Sony Xperia Z1',
     'i9100' => 'Samsung Galaxy S II (Intl)',
