@@ -73,6 +73,7 @@ $device_fullname = array(
     'toroplus' => 'Google Galaxy Nexus (Sprint)',
     'umts_spyder' => 'Motorola Razr / Razr MAXX (GSM)',
     'ville' => 'HTC One S',
+    'viva' => 'Huawei U9200',
     'xt907' => 'Motorola Droid RAZR M',
     'xt925' => 'Motorola Droid RAZR HD (GSM)',
     'xt926' => 'Motorola Droid RAZR HD (CDMA)',
