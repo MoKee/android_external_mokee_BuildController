@@ -41,6 +41,7 @@ $device_fullname = array(
     'jfltespr' => 'Samsung Galaxy S4 (Sprint)',
     'jfltexx' => 'Samsung Galaxy S4 (Intl)',
     'jordanplus' => 'Motorola Defy / Defy Plus',
+    'ls970' => 'LG Optimus G (Sprint)',
     'lt013g' => 'Samsung Galaxy Tab3 8" T311',
     'lt01lte' => 'Samsung Galaxy Tab3 8" T315',
     'lt01wifi' => 'Samsung Galaxy Tab3 8" T310',
