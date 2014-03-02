@@ -17,6 +17,7 @@ $device_fullname = array(
     'deb' => 'Google Nexus 7 2013 (4G)',
     'dlx' => 'HTC Droid DNA',
     'dogo' => 'Sony Xperia ZR',
+    'e120l' => 'Galaxy SII HD LTE',
     'e970' => 'LG Optimus G (AT&T)',
     'e975' => 'LG Optimus G (Intl)',
     'e980' => 'LG Optimus G Pro (All e98x GSM)',
