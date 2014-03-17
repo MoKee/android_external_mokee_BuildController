@@ -67,6 +67,7 @@ $device_fullname = array(
     'shooteru' => 'HTC Evo3D / G17 (GSM)',
     't0lte' => 'Samsung Galaxy Note II (GSM LTE)',
     'targa' => 'Motorola Droid Bionic',
+    'tilapia' => 'Google Nexus 7 (GSM)',
     'togari' => 'Sony Xperia Z Ultra',
     'toro' => 'Google Galaxy Nexus (Verizon)',
     'toroplus' => 'Google Galaxy Nexus (Sprint)',
