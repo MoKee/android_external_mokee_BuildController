@@ -47,7 +47,6 @@ $device_fullname = array(
     'm7vzw' => 'HTC One (Verizon)',
     'maguro' => 'Google Galaxy Nexus (GSM)',
     'mako' => 'Google Nexus 4',
-    'mb886' => 'Motorola Atrix HD',
     'moto_msm8960dt' => 'Motorola Moto X (Unified)',
     'n1' => 'Oppo N1',
     'n7000' => 'Samsung Galaxy Note (Intl)',
@@ -74,8 +73,5 @@ $device_fullname = array(
     'umts_spyder' => 'Motorola Razr / Razr MAXX (GSM)',
     'ville' => 'HTC One S',
     'viva' => 'Huawei U9200',
-    'xt907' => 'Motorola Droid RAZR M',
-    'xt925' => 'Motorola Droid RAZR HD (GSM)',
-    'xt926' => 'Motorola Droid RAZR HD (CDMA)',
     'yuga' => 'Sony Xperia Z',
 );
