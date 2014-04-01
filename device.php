@@ -43,6 +43,7 @@ $device_fullname = array(
     'lt01lte' => 'Samsung Galaxy Tab3 8" T315',
     'lt01wifi' => 'Samsung Galaxy Tab3 8" T310',
     'lu6200' => 'LG Optimus LTE',
+    'm4' => 'HTC One Mini',
     'm7' => 'HTC One (GSM)',
     'm7spr' => 'HTC One (Sprint)',
     'm7vzw' => 'HTC One (Verizon)',
