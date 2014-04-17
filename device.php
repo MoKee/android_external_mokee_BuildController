@@ -49,6 +49,7 @@ $device_fullname = array(
     'm7vzw' => 'HTC One (Verizon)',
     'maguro' => 'Google Galaxy Nexus (GSM)',
     'mako' => 'Google Nexus 4',
+    'mione_plus' => 'XiaoMi 1 / 1S',
     'moto_msm8960' => 'Atrix HD / Droid Razr M / Droid Razr HD / Razr HD / Photon Q / Electrify M',
     'moto_msm8960dt' => 'Motorola Moto X (Unified) / Droid Maxx-Dev Edition',
     'n1' => 'Oppo N1',
