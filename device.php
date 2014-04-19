@@ -2,6 +2,7 @@
 
 // device fullname for mokee download web site
 $device_fullname = array(
+    'ace' => 'HTC Desire HD (G10)',
     'amami' => 'Sony Xperia Z1 Mini',
     'aries' => 'XiaoMi 2 / 2S',
     'crespo' => 'Google Nexus S',
