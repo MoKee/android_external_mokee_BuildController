@@ -56,6 +56,7 @@ $device_fullname = array(
     'n1' => 'Oppo N1',
     'n7000' => 'Samsung Galaxy Note (Intl)',
     'n7100' => 'Samsung Galaxy Note II (GSM Non-LTE)',
+    'nicki' => 'Sony Xperia M',
     'nozomi' => 'Sony Xperia S',
     'odin' => 'Sony Xperia ZL',
     'p3100' => 'Samsung Galaxy Tab 2 7.0 (GSM)',
