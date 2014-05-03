@@ -58,6 +58,7 @@ $device_fullname = array(
     'n7100' => 'Samsung Galaxy Note II (GSM Non-LTE)',
     'nicki' => 'Sony Xperia M',
     'nozomi' => 'Sony Xperia S',
+    'nx503a' => 'Nubia Z5S',
     'odin' => 'Sony Xperia ZL',
     'p3100' => 'Samsung Galaxy Tab 2 7.0 (GSM)',
     'p3110' => 'Samsung Galaxy Tab 2 7.0 (Wi-Fi)',
