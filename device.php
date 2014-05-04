@@ -5,6 +5,7 @@ $device_fullname = array(
     'ace' => 'HTC Desire HD (G10)',
     'amami' => 'Sony Xperia Z1 Mini',
     'aries' => 'XiaoMi 2 / 2S',
+    'ariesve' => 'Samsung Galaxy S Plus',
     'crespo' => 'Google Nexus S',
     'd2lte' => 'Samsung Galaxy S III (US)',
     'd710' => 'Samsung Epic 4G Touch (Sprint)',
