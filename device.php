@@ -33,6 +33,7 @@ $device_fullname = array(
     'hikari' => 'Sony Xperia arco S',
     'hlte' => 'Samsung Galaxy Note 3',
     'honami' => 'Sony Xperia Z1',
+    'huashan' => 'Sony Xperia SP',
     'i9100' => 'Samsung Galaxy S II (Intl)',
     'i9100g' => 'Samsung Galaxy S II (G)',
     'i9300' => 'Samsung Galaxy S III (Intl)',
