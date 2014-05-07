@@ -49,6 +49,7 @@ $device_fullname = array(
     'm7' => 'HTC One (GSM)',
     'm7spr' => 'HTC One (Sprint)',
     'm7vzw' => 'HTC One (Verizon)',
+    'm8' => 'HTC One 2014',
     'maguro' => 'Google Galaxy Nexus (GSM)',
     'mako' => 'Google Nexus 4',
     'mione_plus' => 'XiaoMi 1 / 1S',
