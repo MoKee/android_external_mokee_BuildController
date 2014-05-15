@@ -29,6 +29,7 @@ $device_fullname = array(
     'find5' => 'Oppo Find 5',
     'flo' => 'Google Nexus 7 2013 (Wi-Fi)',
     'galaxysmtd' => 'Samsung Galaxy S',
+    'gee' => 'LG Optimus G (Intl & Sprint)',
     'grouper' => 'Google Nexus 7 (Wi-Fi)',
     'hammerhead' => 'Google Nexus 5',
     'hikari' => 'Sony Xperia arco S',
