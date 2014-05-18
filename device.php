@@ -4,6 +4,7 @@
 $device_fullname = array(
     'ace' => 'HTC Desire HD (G10)',
     'amami' => 'Sony Xperia Z1 Mini',
+    'anzu' => 'Sony Xperia Arc S',
     'aries' => 'XiaoMi 2 / 2S',
     'ariesve' => 'Samsung Galaxy S Plus',
     'crespo' => 'Google Nexus S',
