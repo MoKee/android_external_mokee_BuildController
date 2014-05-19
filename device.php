@@ -56,6 +56,7 @@ $device_fullname = array(
     'm8' => 'HTC One 2014',
     'maguro' => 'Google Galaxy Nexus (GSM)',
     'mako' => 'Google Nexus 4',
+    'mint' => 'Sony Xperia T',
     'mione_plus' => 'XiaoMi 1 / 1S',
     'moto_msm8960' => 'Motorola Atrix HD / Razr M / Razr HD / Photon Q / Electrify M',
     'moto_msm8960dt' => 'Motorola Moto X (Unified) / Droid Maxx-Dev Edition',
