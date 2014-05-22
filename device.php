@@ -81,6 +81,7 @@ $device_fullname = array(
     'p5110' => 'Samsung Galaxy Tab 2 10.1 (Wi-Fi)',
     'p880' => 'LG Optimus 4X HD',
     'p930' => 'LG Nitro HD / Optimus LTE',
+    'r950' => 'Samsung Galaxy Note II (US Cellular)',
     'sc03e' => 'Samsung Galaxy S III LTE (Japan)',
     'serrano3gxx' => 'Samsung Galaxy S4 Mini (3G)',
     'serranoltexx' => 'Samsung Galaxy S4 Mini (Intl)',
