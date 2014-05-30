@@ -93,6 +93,7 @@ $device_fullname = array(
     'spyder' => 'Motorola Droid Razr / Razr MAXX (CDMA)',
     't0lte' => 'Samsung Galaxy Note II (GSM LTE)',
     'targa' => 'Motorola Droid Bionic',
+    'taoshan' => 'Sony Xperia L',
     'tilapia' => 'Google Nexus 7 (GSM)',
     'togari' => 'Sony Xperia Z Ultra',
     'toro' => 'Google Galaxy Nexus (Verizon)',
