@@ -50,6 +50,7 @@ $device_fullname = array(
     'i9500' => 'Samsung Galaxy S4 (GT-I9500)',
     'jflte' => 'Samsung Galaxy S4',
     'jordanplus' => 'Motorola Defy / Defy Plus',
+    'l01f' => 'LG G2 (Japan)',
     'l900' => 'Samsung Galaxy Note II (Sprint)',
     'ls970' => 'LG Optimus G (Sprint)',
     'lt013g' => 'Samsung Galaxy Tab3 8" T311',
