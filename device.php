@@ -104,5 +104,6 @@ $device_fullname = array(
     'urushi' => 'Sony Xperia Ray',
     'ville' => 'HTC One S',
     'viva' => 'Huawei U9200',
+    'vs980' => 'LG G2 (Verizon)',
     'yuga' => 'Sony Xperia Z',
 );
