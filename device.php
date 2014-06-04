@@ -53,6 +53,7 @@ $device_fullname = array(
     'l01f' => 'LG G2 (Japan)',
     'l900' => 'Samsung Galaxy Note II (Sprint)',
     'ls970' => 'LG Optimus G (Sprint)',
+    'ls980' => 'LG G2 (Sprint)',
     'lt013g' => 'Samsung Galaxy Tab3 8" T311',
     'lt01lte' => 'Samsung Galaxy Tab3 8" T315',
     'lt01wifi' => 'Samsung Galaxy Tab3 8" T310',
