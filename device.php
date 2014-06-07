@@ -100,6 +100,7 @@ $device_fullname = array(
     'togari' => 'Sony Xperia Z Ultra',
     'toro' => 'Google Galaxy Nexus (Verizon)',
     'toroplus' => 'Google Galaxy Nexus (Sprint)',
+    'tsubasa' => 'Sony Xperia V ',
     'umts_spyder' => 'Motorola Razr / Razr MAXX (GSM)',
     'urushi' => 'Sony Xperia Ray',
     'ville' => 'HTC One S',
