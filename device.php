@@ -84,6 +84,7 @@ $device_fullname = array(
     'p3110' => 'Samsung Galaxy Tab 2 7.0 (Wi-Fi)',
     'p5100' => 'Samsung Galaxy Tab 2 10.1 (GSM)',
     'p5110' => 'Samsung Galaxy Tab 2 10.1 (Wi-Fi)',
+    'p760' => 'LG Optimus L9',
     'p880' => 'LG Optimus 4X HD',
     'p930' => 'LG Nitro HD / Optimus LTE',
     'r950' => 'Samsung Galaxy Note II (US Cellular)',
