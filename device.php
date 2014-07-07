@@ -96,6 +96,7 @@ $device_fullname = array(
     'skyrocket' => 'Samsung Galaxy S II Skyrocket',
     'spyder' => 'Motorola Droid Razr / Razr MAXX (CDMA)',
     't0lte' => 'Samsung Galaxy Note II (GSM LTE)',
+    't6' => 'HTC One Max (GSM)',
     'targa' => 'Motorola Droid Bionic',
     'taoshan' => 'Sony Xperia L',
     'tilapia' => 'Google Nexus 7 (GSM)',
