@@ -75,6 +75,7 @@ $device_fullname = array(
     'nozomi' => 'Sony Xperia S',
     'nx403a' => 'Nubia Z5S Mini',
     'nx503a' => 'Nubia Z5S',
+    'nx505j' => 'Nubia Z7 MAX',
     'odin' => 'Sony Xperia ZL',
     'otter' => 'Amazon Kindle Fire (1st gen)',
     'otter2' => 'Amazon Kindle Fire (2nd gen)',
