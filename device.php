@@ -99,6 +99,7 @@ $device_fullname = array(
     't6' => 'HTC One Max (GSM)',
     'targa' => 'Motorola Droid Bionic',
     'taoshan' => 'Sony Xperia L',
+    'tianchi' => 'Sony Xperia T2 Ultra',
     'tilapia' => 'Google Nexus 7 (GSM)',
     'togari' => 'Sony Xperia Z Ultra',
     'toro' => 'Google Galaxy Nexus (Verizon)',
