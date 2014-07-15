@@ -9,6 +9,7 @@ $device_fullname = array(
     'ariesve' => 'Samsung Galaxy S Plus',
     'bacon' => 'OnePlus One',
     'crespo' => 'Google Nexus S',
+    'c2005' => 'Sony Xperia M Dual',
     'd2lte' => 'Samsung Galaxy S III (US)',
     'd710' => 'Samsung Epic 4G Touch (Sprint)',
     'd800' => 'LG G2 (AT&T)',
