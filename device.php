@@ -24,6 +24,7 @@ $device_fullname = array(
     'e980' => 'LG Optimus G Pro (All e98x GSM)',
     'edison' => 'Motorola Atrix 2',
     'ef50l' => 'Pantech A850 (Unified)',
+    'ef52k' => 'Pantech A870 (Unified)',
     'endeavoru' => 'HTC One X',
     'enrc2b' => 'HTC One X+',
     'evita' => 'HTC One XL',
