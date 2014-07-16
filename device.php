@@ -98,6 +98,7 @@ $device_fullname = array(
     'shooteru' => 'HTC Evo3D / G17 (GSM)',
     'sirius' => 'Sony Xperia Z2',
     'skyrocket' => 'Samsung Galaxy S II Skyrocket',
+    'sm701' => 'Smartisan T1',
     'spyder' => 'Motorola Droid Razr / Razr MAXX (CDMA)',
     't0lte' => 'Samsung Galaxy Note II (GSM LTE)',
     't6' => 'HTC One Max (GSM)',
