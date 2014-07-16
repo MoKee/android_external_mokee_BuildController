@@ -91,6 +91,7 @@ $device_fullname = array(
     'p880' => 'LG Optimus 4X HD',
     'p930' => 'LG Nitro HD / Optimus LTE',
     'r950' => 'Samsung Galaxy Note II (US Cellular)',
+    'saga' => 'HTC Desire S (G12)',
     'sc03e' => 'Samsung Galaxy S III LTE (Japan)',
     'serrano3gxx' => 'Samsung Galaxy S4 Mini (3G)',
     'serranoltexx' => 'Samsung Galaxy S4 Mini (Intl)',
