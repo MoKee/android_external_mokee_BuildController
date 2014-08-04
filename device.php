@@ -69,6 +69,7 @@ $device_fullname = array(
     'mint' => 'Sony Xperia T',
     'mione_plus' => 'XiaoMi 1 / 1S',
     'moto_msm8960' => 'Motorola Atrix HD / Razr M / Razr HD / Electrify M',
+    'moto_msm8960_jbbl' => 'Motorola Atrix HD / Razr M / Razr HD / Electrify M (JBBL)',
     'moto_msm8960dt' => 'Motorola Moto X (Unified) / Droid Maxx-Dev Edition',
     'n1' => 'Oppo N1',
     'n7000' => 'Samsung Galaxy Note (Intl)',
