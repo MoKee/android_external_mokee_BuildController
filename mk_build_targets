@@ -12,12 +12,10 @@ mk_d803-userdebug
 mk_deb-userdebug
 mk_dlx-userdebug
 mk_dogo-userdebug
-mk_e120l-userdebug
 mk_e970-userdebug
 mk_e975-userdebug
 mk_e980-userdebug
 mk_edison-userdebug
-mk_ef60s-userdebug
 mk_endeavoru-userdebug
 mk_enrc2b-userdebug
 mk_evita-userdebug
@@ -64,7 +62,6 @@ mk_n1-userdebug
 mk_n7000-userdebug
 mk_n7100-userdebug
 mk_nozomi-userdebug
-mk_nx403a-userdebug
 mk_odin-userdebug
 mk_otter-userdebug
 mk_otter2-userdebug
