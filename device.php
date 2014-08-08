@@ -8,6 +8,7 @@ $device_fullname = array(
     'aries' => 'XiaoMi 2 / 2S',
     'ariesve' => 'Samsung Galaxy S Plus',
     'bacon' => 'OnePlus One',
+    'cancro' => 'XiaoMi 3W',
     'crespo' => 'Google Nexus S',
     'c2005' => 'Sony Xperia M Dual',
     'd2lte' => 'Samsung Galaxy S III (US)',
