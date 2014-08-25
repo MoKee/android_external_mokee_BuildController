@@ -109,6 +109,7 @@ $device_fullname = array(
     'tianchi' => 'Sony Xperia T2 Ultra',
     'tilapia' => 'Google Nexus 7 (GSM)',
     'togari' => 'Sony Xperia Z Ultra',
+    'togari_gpe' => 'Sony Xperia Z Ultra (GPE)',
     'toro' => 'Google Galaxy Nexus (Verizon)',
     'toroplus' => 'Google Galaxy Nexus (Sprint)',
     'tsubasa' => 'Sony Xperia V ',
