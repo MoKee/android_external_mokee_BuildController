@@ -44,6 +44,7 @@ $device_fullname = array(
     'hikari' => 'Sony Xperia Arco S',
     'hlte' => 'Samsung Galaxy Note 3',
     'hltespr' => 'Samsung Galaxy Note 3 (Sprint)',
+    'hlteusc' => 'Samsung Galaxy Note 3 (US Cellular)',
     'hltevzw' => 'Samsung Galaxy Note 3 (Verizon)',
     'honami' => 'Sony Xperia Z1',
     'huashan' => 'Sony Xperia SP',
