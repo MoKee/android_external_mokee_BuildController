@@ -27,6 +27,7 @@ mk_find5-userdebug
 mk_find7-userdebug
 mk_flo-userdebug
 mk_galaxysmtd-userdebug
+mk_ghost-userdebug
 mk_grouper-userdebug
 mk_hammerhead-userdebug
 mk_hikari-userdebug
@@ -65,7 +66,6 @@ mk_mint-userdebug
 mk_mione_plus-userdebug
 mk_moto_msm8960-userdebug
 mk_moto_msm8960_jbbl-userdebug
-mk_moto_msm8960dt-userdebug
 mk_n1-userdebug
 mk_n7000-userdebug
 mk_n7100-userdebug
