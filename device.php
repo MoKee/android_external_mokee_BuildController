@@ -7,6 +7,7 @@ $device_fullname = array(
     'anzu' => 'Sony Xperia Arc S',
     'aries' => 'XiaoMi 2 / 2S',
     'ariesve' => 'Samsung Galaxy S Plus',
+    'armani' => 'RedMi 1S (C/W)',
     'bacon' => 'OnePlus One',
     'cancro' => 'XiaoMi 3W',
     'castor' => 'Sony Xperia Z2 Tablet LTE',
