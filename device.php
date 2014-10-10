@@ -62,6 +62,7 @@ $device_fullname = array(
     'jordanplus' => 'Motorola Defy / Defy Plus',
     'klte' => 'Samsung Galaxy S5 (GSM)',
     'kltespr' => 'Samsung Galaxy S5 (Sprint)',
+    'klteusc' => 'Samsung Galaxy S5 (US Cellular)',
     'ks01ltes' => 'Samsung Galaxy S4 LTA-A',
     'l01f' => 'LG G2 (Japan)',
     'l900' => 'Samsung Galaxy Note II (Sprint)',
