@@ -51,6 +51,7 @@ mk_jflte-userdebug
 mk_klte-userdebug
 mk_kltespr-userdebug
 mk_klteusc-userdebug
+mk_kltevzw-userdebug
 mk_ks01lte-userdebug
 mk_l01f-userdebug
 mk_l900-userdebug

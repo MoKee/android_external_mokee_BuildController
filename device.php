@@ -64,6 +64,7 @@ $device_fullname = array(
     'klte' => 'Samsung Galaxy S5 (GSM)',
     'kltespr' => 'Samsung Galaxy S5 (Sprint)',
     'klteusc' => 'Samsung Galaxy S5 (US Cellular)',
+    'kltevzw' => 'Samsung Galaxy S5 (Verizon)',
     'ks01lte' => 'Samsung Galaxy S4 LTE-A',
     'l01f' => 'LG G2 (Japan)',
     'l900' => 'Samsung Galaxy Note II (Sprint)',
