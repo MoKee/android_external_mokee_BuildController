@@ -24,6 +24,7 @@ $device_fullname = array(
     'd803' => 'LG G2 (Canada)',
     'deb' => 'Google Nexus 7 2013 (4G)',
     'dlx' => 'HTC Droid DNA',
+    'dior' => 'RedMi Note 4G TD/W',
     'dogo' => 'Sony Xperia ZR',
     'e120l' => 'Galaxy SII HD LTE',
     'e970' => 'LG Optimus G (AT&T)',
