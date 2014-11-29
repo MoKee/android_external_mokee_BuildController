@@ -136,6 +136,7 @@ $device_fullname = array(
     'ville' => 'HTC One S',
     'viva' => 'Huawei U9200',
     'vs980' => 'LG G2 (Verizon)',
+    'vs985' => 'LG G3 (Verizon)',
     'X9180' => 'ZTE V5',
     'yuga' => 'Sony Xperia Z',
 );
