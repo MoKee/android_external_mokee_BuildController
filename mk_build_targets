@@ -2,6 +2,7 @@ mk_amami-userdebug
 mk_bacon-userdebug
 mk_castor-userdebug
 mk_castor_windy-userdebug
+mk_falcon-userdebug
 mk_find5-userdebug
 mk_find7-userdebug
 mk_flo-userdebug
@@ -15,12 +16,4 @@ mk_togari-userdebug
 mk_togari_gpe-userdebug
 mk_tsubasa-userdebug
 mk_sirius-userdebug
-mk_-userdebug
-mk_-userdebug
-mk_-userdebug
-mk_-userdebug
-mk_-userdebug
-mk_-userdebug
-mk_-userdebug
-mk_-userdebug
-mk_-userdebug
+mk_vs985-userdebug
