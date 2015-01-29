@@ -4,6 +4,9 @@ mk_bacon-userdebug
 mk_castor-userdebug
 mk_castor_windy-userdebug
 mk_deb-userdebug
+mk_e970-userdebug
+mk_e975-userdebug
+mk_e980-userdebug
 mk_edison-userdebug
 mk_falcon-userdebug
 mk_find5-userdebug
@@ -13,6 +16,8 @@ mk_ghost-userdebug
 mk_hammerhead-userdebug
 mk_honami-userdebug
 mk_i9100g-userdebug
+mk_ls970-userdebug
+mk_ls980-userdebug
 mk_m7-userdebug
 mk_m7vzw-userdebug
 mk_m8-userdebug
