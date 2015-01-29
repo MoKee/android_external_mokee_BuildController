@@ -3,6 +3,11 @@ mk_amami-userdebug
 mk_bacon-userdebug
 mk_castor-userdebug
 mk_castor_windy-userdebug
+mk_d802-userdebug
+mk_d850-userdebug
+mk_d851-userdebug
+mk_d852-userdebug
+mk_d855-userdebug
 mk_deb-userdebug
 mk_e970-userdebug
 mk_e975-userdebug
