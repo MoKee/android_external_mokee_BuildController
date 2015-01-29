@@ -36,3 +36,5 @@ mk_togari_gpe-userdebug
 mk_tsubasa-userdebug
 mk_umts_spyder-userdebug
 mk_vs985-userdebug
+mk_z3-userdebug
+mk_z3c-userdebug
