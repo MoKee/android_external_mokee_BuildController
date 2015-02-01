@@ -22,8 +22,8 @@ mk_flo-userdebug
 mk_ghost-userdebug
 mk_hammerhead-userdebug
 mk_hlte-userdebug
-mk_hltetmo-userdebug
 mk_hltespr-userdebug
+mk_hltetmo-userdebug
 mk_honami-userdebug
 mk_i9100g-userdebug
 mk_ls970-userdebug
