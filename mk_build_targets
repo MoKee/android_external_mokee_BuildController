@@ -26,6 +26,13 @@ mk_hltespr-userdebug
 mk_hltetmo-userdebug
 mk_honami-userdebug
 mk_i9100g-userdebug
+mk_jflteatt-userdebug
+mk_jfltetmo-userdebug
+mk_jfltevzw-userdebug
+mk_jfltexx-userdebug
+mk_klte-userdebug
+mk_kltespr-userdebug
+mk_ks01lte-userdebug
 mk_ls970-userdebug
 mk_ls980-userdebug
 mk_m7-userdebug
