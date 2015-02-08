@@ -28,6 +28,7 @@ mk_hltetmo-userdebug
 mk_honami-userdebug
 mk_i9100g-userdebug
 mk_jflteatt-userdebug
+mk_jfltespr-userdebug
 mk_jfltetmo-userdebug
 mk_jfltevzw-userdebug
 mk_jfltexx-userdebug
@@ -47,9 +48,12 @@ mk_p5100-userdebug
 mk_p5110-userdebug
 mk_peregrine-userdebug
 mk_pyramid-userdebug
+mk_serrano3gxx-userdebug
+mk_serranoltexx-userdebug
 mk_shamu-userdebug
 mk_sirius-userdebug
 mk_spyder-userdebug
+mk_t0lte-userdebug
 mk_togari-userdebug
 mk_togari_gpe-userdebug
 mk_tsubasa-userdebug
