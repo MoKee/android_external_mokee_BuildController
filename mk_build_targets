@@ -61,6 +61,7 @@ mk_umts_spyder-userdebug
 mk_vs985-userdebug
 mk_xt907-userdebug
 mk_xt925-userdebug
+mk_xt925_jbbl-userdebug
 mk_xt926-userdebug
 mk_z3-userdebug
 mk_z3c-userdebug
