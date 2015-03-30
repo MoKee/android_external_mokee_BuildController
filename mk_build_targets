@@ -17,7 +17,7 @@ mk_dlx-userdebug
 mk_e970-userdebug
 mk_e975-userdebug
 mk_e980-userdebug
-mk_edison-userdebug
+mk_evita-userdebug
 mk_falcon-userdebug
 mk_find5-userdebug
 mk_find7-userdebug
@@ -48,6 +48,7 @@ mk_m8-userdebug
 mk_mako-userdebug
 mk_maserati-userdebug
 mk_mb886-userdebug
+mk_nicki-userdebug
 mk_mint-userdebug
 mk_n1-userdebug
 mk_n3-userdebug
