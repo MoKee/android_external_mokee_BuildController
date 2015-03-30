@@ -46,6 +46,7 @@ mk_m7spr-userdebug
 mk_m7vzw-userdebug
 mk_m8-userdebug
 mk_mako-userdebug
+mk_maserati-userdebug
 mk_mb886-userdebug
 mk_mint-userdebug
 mk_n1-userdebug
@@ -67,6 +68,7 @@ mk_t6-userdebug
 mk_t6spr-userdebug
 mk_t6vzw-userdebug
 mk_taoshan-userdebug
+mk_targa-userdebug
 mk_titan-userdebug
 mk_togari-userdebug
 mk_togari_gpe-userdebug
