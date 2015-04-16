@@ -23,6 +23,7 @@ mk_quark-userdebug
 mk_shamu-userdebug
 mk_spyder-userdebug
 mk_t6-userdebug
+mk_t6spr-userdebug
 mk_t6vzw-userdebug
 mk_targa-userdebug
 mk_titan-userdebug
