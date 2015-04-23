@@ -14,6 +14,8 @@ mk_flo-userdebug
 mk_ghost-userdebug
 mk_hammerhead-userdebug
 mk_hammerheadcaf-userdebug
+mk_hltespr-userdebug
+mk_hltetmo-userdebug
 mk_jfltevzw-userdebug
 mk_jfltexx-userdebug
 mk_m7-userdebug
@@ -27,7 +29,9 @@ mk_obake-userdebug
 mk_peregrine-userdebug
 mk_quark-userdebug
 mk_shamu-userdebug
+mk_sirius-userdebug
 mk_spyder-userdebug
+mk_t0lte-userdebug
 mk_t6-userdebug
 mk_t6spr-userdebug
 mk_t6vzw-userdebug
@@ -42,3 +46,5 @@ mk_xt897-userdebug
 mk_xt907-userdebug
 mk_xt925-userdebug
 mk_xt926-userdebug
+mk_z3-userdebug
+mk_z3c-userdebug
