@@ -1,6 +1,9 @@
+mk_amami-userdebug
 mk_armani-userdebug
 mk_bacon-userdebug
 mk_cancro-userdebug
+mk_castor-userdebug
+mk_castor_windy-userdebug
 mk_condor-userdebug
 mk_deb-userdebug
 mk_dlx-userdebug
@@ -19,6 +22,7 @@ mk_hltespr-userdebug
 mk_hltetmo-userdebug
 mk_i605-userdebug
 mk_i925-userdebug
+mk_honami-userdebug
 mk_jfltevzw-userdebug
 mk_jfltexx-userdebug
 mk_l900-userdebug
@@ -41,6 +45,8 @@ mk_t6spr-userdebug
 mk_t6vzw-userdebug
 mk_targa-userdebug
 mk_titan-userdebug
+mk_togari-userdebug
+mk_togari_gpe-userdebug
 mk_umts_spyder-userdebug
 mk_victara-userdebug
 mk_ville-userdebug
