@@ -16,6 +16,7 @@ mk_find7-userdebug
 mk_find7s-userdebug
 mk_flo-userdebug
 mk_ghost-userdebug
+mk_grouper-userdebug
 mk_hammerhead-userdebug
 mk_hammerheadcaf-userdebug
 mk_hlte-userdebug
@@ -46,6 +47,7 @@ mk_t6-userdebug
 mk_t6spr-userdebug
 mk_t6vzw-userdebug
 mk_targa-userdebug
+mk_tilapia-userdebug
 mk_titan-userdebug
 mk_togari-userdebug
 mk_togari_gpe-userdebug
