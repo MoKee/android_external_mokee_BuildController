@@ -8,6 +8,10 @@ mk_condor-userdebug
 mk_d2att-userdebug
 mk_d2spr-userdebug
 mk_d2vzw-userdebug
+mk_d850-userdebug
+mk_d851-userdebug
+mk_d852-userdebug
+mk_d855-userdebug
 mk_deb-userdebug
 mk_dlx-userdebug
 mk_e975-userdebug
