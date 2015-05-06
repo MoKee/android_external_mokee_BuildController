@@ -53,6 +53,8 @@ mk_n3-userdebug
 mk_obake-userdebug
 mk_peregrine-userdebug
 mk_quark-userdebug
+mk_serrano3gxx-userdebug
+mk_serranoltexx-userdebug
 mk_shamu-userdebug
 mk_sirius-userdebug
 mk_spyder-userdebug
