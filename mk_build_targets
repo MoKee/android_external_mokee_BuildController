@@ -48,6 +48,7 @@ mk_kltechnduo-userdebug
 mk_kltekdi-userdebug
 mk_kltespr-userdebug
 mk_l900-userdebug
+mk_lettuce-userdebug
 mk_m7-userdebug
 mk_m7vzw-userdebug
 mk_m8-userdebug
@@ -77,6 +78,7 @@ mk_tilapia-userdebug
 mk_titan-userdebug
 mk_togari-userdebug
 mk_togari_gpe-userdebug
+mk_tomato-userdebug
 mk_umts_spyder-userdebug
 mk_victara-userdebug
 mk_ville-userdebug
