@@ -1,92 +1,92 @@
-mk_amami-userdebug
-mk_armani-userdebug
-mk_bacon-userdebug
-mk_cancro-userdebug
-mk_castor-userdebug
-mk_castor_windy-userdebug
-mk_condor-userdebug
-mk_d2att-userdebug
-mk_d2spr-userdebug
-mk_d2tmo-userdebug
-mk_d2vzw-userdebug
-mk_d850-userdebug
-mk_d851-userdebug
-mk_d852-userdebug
-mk_d855-userdebug
-mk_deb-userdebug
-mk_dlx-userdebug
-mk_e975-userdebug
-mk_e980-userdebug
-mk_evita-userdebug
-mk_falcon-userdebug
-mk_find5-userdebug
-mk_find7-userdebug
-mk_find7s-userdebug
-mk_flo-userdebug
-mk_flounder-userdebug
-mk_ghost-userdebug
-mk_grouper-userdebug
-mk_hammerhead-userdebug
-mk_hammerheadcaf-userdebug
-mk_hlte-userdebug
-mk_hltespr-userdebug
-mk_hltetmo-userdebug
-mk_honami-userdebug
-mk_i605-userdebug
-mk_i925-userdebug
-mk_i9100-userdebug
-mk_i9100g-userdebug
-mk_i9500-userdebug
-mk_jflteatt-userdebug
-mk_jfltespr-userdebug
-mk_jfltetmo-userdebug
-mk_jfltevzw-userdebug
-mk_jfltexx-userdebug
-mk_klte-userdebug
-mk_kltechn-userdebug
-mk_kltechnduo-userdebug
-mk_kltekdi-userdebug
-mk_kltespr-userdebug
-mk_l900-userdebug
-mk_lettuce-userdebug
-mk_m7-userdebug
-mk_m7vzw-userdebug
-mk_m8-userdebug
-mk_mako-userdebug
-mk_maserati-userdebug
-mk_mb886-userdebug
-mk_n1-userdebug
-mk_n3-userdebug
-mk_nicki-userdebug
-mk_obake-userdebug
-mk_peregrine-userdebug
-mk_quark-userdebug
-mk_serrano3gxx-userdebug
-mk_serranoltexx-userdebug
-mk_shamu-userdebug
-mk_sirius-userdebug
-mk_spyder-userdebug
-mk_superior-userdebug
-mk_superiorcmcc-userdebug
-mk_t0lte-userdebug
-mk_t6-userdebug
-mk_t6spr-userdebug
-mk_t6vzw-userdebug
-mk_targa-userdebug
-mk_thea-userdebug
-mk_tilapia-userdebug
-mk_titan-userdebug
-mk_togari-userdebug
-mk_togari_gpe-userdebug
-mk_tomato-userdebug
-mk_umts_spyder-userdebug
-mk_victara-userdebug
-mk_ville-userdebug
-mk_vs985-userdebug
-mk_x9180-userdebug
-mk_xt897-userdebug
-mk_xt907-userdebug
-mk_xt925-userdebug
-mk_xt926-userdebug
-mk_z3-userdebug
-mk_z3c-userdebug
+amami userdebug
+armani userdebug
+bacon userdebug
+cancro userdebug
+castor userdebug
+castor_windy userdebug
+condor userdebug
+d2att userdebug
+d2spr userdebug
+d2tmo userdebug
+d2vzw userdebug
+d850 userdebug
+d851 userdebug
+d852 userdebug
+d855 userdebug
+deb userdebug
+dlx userdebug
+e975 userdebug
+e980 userdebug
+evita userdebug
+falcon userdebug
+find5 userdebug
+find7 userdebug
+find7s userdebug
+flo userdebug
+flounder userdebug
+ghost userdebug
+grouper userdebug
+hammerhead userdebug
+hammerheadcaf userdebug
+hlte userdebug
+hltespr userdebug
+hltetmo userdebug
+honami userdebug
+i605 userdebug
+i925 userdebug
+i9100 userdebug
+i9100g userdebug
+i9500 userdebug
+jflteatt userdebug
+jfltespr userdebug
+jfltetmo userdebug
+jfltevzw userdebug
+jfltexx userdebug
+klte userdebug
+kltechn userdebug
+kltechnduo userdebug
+kltekdi userdebug
+kltespr userdebug
+l900 userdebug
+lettuce userdebug
+m7 userdebug
+m7vzw userdebug
+m8 userdebug
+mako userdebug
+maserati userdebug
+mb886 userdebug
+n1 userdebug
+n3 userdebug
+nicki userdebug
+obake userdebug
+peregrine userdebug
+quark userdebug
+serrano3gxx userdebug
+serranoltexx userdebug
+shamu userdebug
+sirius userdebug
+spyder userdebug
+superior userdebug
+superiorcmcc userdebug
+t0lte userdebug
+t6 userdebug
+t6spr userdebug
+t6vzw userdebug
+targa userdebug
+thea userdebug
+tilapia userdebug
+titan userdebug
+togari userdebug
+togari_gpe userdebug
+tomato userdebug
+umts_spyder userdebug
+victara userdebug
+ville userdebug
+vs985 userdebug
+x9180 userdebug
+xt897 userdebug
+xt907 userdebug
+xt925 userdebug
+xt926 userdebug
+z3 userdebug
+z3c userdebug
