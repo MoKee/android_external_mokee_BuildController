@@ -9,6 +9,10 @@ d2att userdebug
 d2spr userdebug
 d2tmo userdebug
 d2vzw userdebug
+d800 userdebug
+d801 userdebug
+d802 userdebug
+d803 userdebug
 d850 userdebug
 d851 userdebug
 d852 userdebug
@@ -52,6 +56,7 @@ kltekdi userdebug
 kltespr userdebug
 l900 userdebug
 lettuce userdebug
+ls980 userdebug
 ls990 userdebug
 m7 userdebug
 m7vzw userdebug
@@ -86,6 +91,7 @@ tomato userdebug
 umts_spyder userdebug
 victara userdebug
 ville userdebug
+vs980 userdebug
 vs985 userdebug
 x9180 userdebug
 xt897 userdebug
