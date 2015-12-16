@@ -1,8 +1,8 @@
 #device server
-angler 1
+angler 2
 armani 1
 bacon 1
-bullhead 1
+bullhead 2
 d800 1
 d801 1
 d802 1
@@ -15,9 +15,9 @@ falcon 1
 find7 1
 find7s 1
 flo 1
-flounder 1
-flounder_lte 1
-h815 1
+flounder 2
+flounder_lte 2
+h815 2
 hammerhead 1
 hammerheadcaf 1
 klte 1
@@ -28,7 +28,7 @@ kltekdi 1
 l01f 1
 m8 1
 m8d 1
-nx510j 1
+nx510j 2
 otus 1
 peregrine 1
 shamu 1
