@@ -16,6 +16,8 @@ d800 userdebug
 d801 userdebug
 d802 userdebug
 d803 userdebug
+d851 userdebug
+d852 userdebug
 d855 userdebug
 d857 userdebug
 deb userdebug
@@ -57,6 +59,7 @@ kltespr userdebug
 klteusc userdebug
 kltevzw userdebug
 libra userdebug
+ls990 userdebug
 lux userdebug
 m7 userdebug
 m7vzw userdebug
