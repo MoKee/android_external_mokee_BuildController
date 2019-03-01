@@ -1,0 +1,4 @@
+{
+  "pushCert": "certificate version 0.1\npusher 2ECD2531 1551441242 +0800\npushee ssh://mokeedev.review:29418/MoKee/android_external_mokee_BuildController\nnonce 1551441242-AEA48D028923893046153E4425EFBC4300DC82E1\n\n0000000000000000000000000000000000000000 cf511b48916b7662286b668d6c945f8d30cfdc00 refs/for/mkp\n-----BEGIN PGP SIGNATURE-----\nVersion: GnuPG v1\n\niQEcBAABAgAGBQJceR1aAAoJEPIi9OYuzSUx41cIAJ0EgOtEK12erXr32+2cP9qZ\nSNHGw5su6lx7M0rSMjYLgpIsU/rVtYjwT8Liz2sfoQXLPxTe8vXF0u3sRg6vgVVx\nWN5Et6V/3hp+d+VwDb3Q6JdZKgezyV07ox2O08KjgH6o5hGxBpGhg9MY4arRcYUL\nxqXFB4DViqVmw7aJ6pl/YvNNscssyH2iQ3hmUljPE44UD2gizJIy9XufqqBNYghA\nM8buiLSaZxC5F+pSsYVbS4pJZEQwobdy4G21hQeTUHPefootcsX6DBaeCy3jTQbX\nX1rQfoeX9HJonjn5ruZkfgXTi5yggbJAneU6Sz3hyDyDKn6ovuDhtIFmy3KQJ70\u003d\n\u003dxf1e\n-----END PGP SIGNATURE-----\n",
+  "comments": []
+}
